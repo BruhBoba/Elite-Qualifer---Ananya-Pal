@@ -10,8 +10,8 @@ Maintains a fairly one sided conversation
 Required project for Code2College
 
 ## Install
-These are the steps to setup your local environment to run this
-application.
+Install [Python](https://www.python.org/) onto computer
+
 
 ## Usage
 Just answer the questions ig
