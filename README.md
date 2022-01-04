@@ -1,5 +1,5 @@
-# Title
-Simple (or clever and funny?) description
+# Elite Qualifier - Basic Chatbot
+Maintains a fairly one sided conversation
 
 ## Table of Contents
 - [Background](#background)
@@ -7,7 +7,7 @@ Simple (or clever and funny?) description
 - [Usage](#usage)
 
 ## Background
-This is why this application exists.
+Required project for Code2College
 
 ## Install
 These are the steps to setup your local environment to run this
