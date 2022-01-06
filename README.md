@@ -18,3 +18,10 @@ Just answer the questions ig
 
 ### Any optional sections
 Some changes...
+
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
